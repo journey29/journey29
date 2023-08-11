@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on **chat**
+- 🔭 I’m currently working on **realtime chat app**
 
 - 🌱 I’m currently learning **Node.js, Socket.io**
 
