@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **realtime chat app**
 
-- 🌱 I’m currently learning **Node.js, Socket.io**
-
 - 👯 I’m looking to collaborate on **projects that benefit society**
 
 - 👨‍💻 All of my projects are available at [https://github.com/journey29](https://github.com/journey29)
