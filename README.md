@@ -20,26 +20,13 @@
 <h3 align="left">Frontend Development:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/sass.svg" width='40' height='40' title='sass'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='redux'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/webpack.svg" width='40' height='40' title='webpack'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/babel.svg" width='40' height='40' title='babel'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='nextjs'/></p>
 
 <h3 align="left">Backend Development:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/></p>
 
-<h3 align="left">Mobile App Development:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/MobileAppDevelopment/reactnative.svg" width='40' height='40' title='reactnative'/></p>
-
-<h3 align="left">Database Management:</h3>
-
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/></p>
-
-<h3 align="left">Devops:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width='40' height='40' title='bash'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
-
-<h3 align="left">Backend as a Service (BaaS):</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='firebase'/></p>
 
 <h3 align="left">Testing:</h3>
 
@@ -48,10 +35,6 @@
 <h3 align="left">Softwares:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/photoshop.svg" width='40' height='40' title='photoshop'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
-
-<h3 align="left">Static Site Generators:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/StaticSiteGenerators/nextjs.svg" width='40' height='40' title='nextjs'/></p>
 
 <br><hr><br>
 
