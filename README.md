@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/journey29](https://github.com/journey29)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/andrii-smaluniuk-b113b7282/](https://www.linkedin.com/in/andrii-smaluniuk-b113b7282/)
-
 - 💬 Ask me about **react, javascript, typescript**
 
 - 📫 How to reach me **smaluniuk.development@gmail.com**
