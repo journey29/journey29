@@ -15,8 +15,3 @@
 
 - ⚡ Fun fact **I'm so curious!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andrii-smalyniuk-2b9b86210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrii-smaluniuk-b113b7282/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@andriismaluniuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@andriismaluniuk" height="30" width="40" /></a>
-</p>
