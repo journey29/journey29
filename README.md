@@ -45,11 +45,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-<img src="https://content.artofmanliness.com/uploads/2011/01/casper2.jpg" align="left" height="100" width="100" />  
-
-
 </td></tr></table>  
 
 <br/>  
