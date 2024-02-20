@@ -1,7 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Andrii Smaluniuk</h1>
 
-<img width="100%" align="center" src="https://blog.flametreepublishing.com/hubfs/van_gogh_header.jpg" />
-
 <h5 align="center">Experienced frontend developer with a background in graphic design, specializing in creating captivating and user-friendly web applications.</h5><br>
 
 <h2 align="left">Some Facts About Me</h2>
@@ -17,6 +15,7 @@
 <h3 align="left">Programming Languages:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/typescript.svg" width='40' height='40' title='typescript'/></p>
 
 <h3 align="left">Frontend Development:</h3>
 
