@@ -36,11 +36,6 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/photoshop.svg" width='40' height='40' title='photoshop'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
 
-<br><hr><br>
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=journey29&show_icons=true&locale=en" />
-
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=journey29&" />
 
 <h2 align="left">Connect with Me</h2>
 
